@@ -1,7 +1,7 @@
 {
   "name": "StateHandler",
   "version": "1.0.0",
-  "description": "Lightwight handler for push states.",
+  "description": "A super lightweight and platform-agnostic push state handler.",
   "directories": {
     "test": "tests"
   },

@@ -1,5 +1,5 @@
 # StateHandler
-Platform-agnostic push state handler
+A super lightweight and platform-agnostic push state handler.
 
 ### Usage
 ```js
