@@ -1,5 +1,5 @@
 {
-  "name": "StateHandler",
+  "name": "statehandler",
   "version": "1.0.0",
   "description": "A super lightweight and platform-agnostic push state handler.",
   "directories": {
