@@ -1,0 +1,21 @@
+{
+  "name": "StateHandler",
+  "version": "1.0.0",
+  "description": "Lightwight handler for push states.",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "pushstate",
+    "states",
+    "agnostic",
+    "module",
+    "request"
+  ],
+  "author": "Daniel Ronkainen",
+  "license": "Apache-2.0"
+}
